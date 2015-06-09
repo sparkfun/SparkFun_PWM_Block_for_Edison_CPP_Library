@@ -3,7 +3,7 @@
  * Example code showing how to use the SparkFun PWM Edison Block
  * Mike Hord @ SparkFun Electronics
  * 9 June 2015
- * <github repository address>
+ * https://github.com/sparkfun/SparkFun_PWM_Block_for_Edison_CPP_Library
  *
  * This file is a demonstration program showing the various functions that we've
  * provided for working with the PCA9685 IC on the SparkFun PWM Edison Block.

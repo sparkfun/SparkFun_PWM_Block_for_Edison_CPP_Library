@@ -3,7 +3,7 @@
  * Header file for supporting the PCA9685 PWM IC on the Edison
  * Mike Hord @ SparkFun Electronics
  * 9 June 2015
- * <github repository address>
+ * https://github.com/sparkfun/SparkFun_PWM_Block_for_Edison_CPP_Library
  *
  * This file provides all the function, class, and constant definitions 
  * needed to provide robust LED and servo drive support for the PCA9685 PWM IC 
