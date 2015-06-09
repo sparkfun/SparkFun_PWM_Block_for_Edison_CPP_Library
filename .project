@@ -1,6 +1,0 @@
-
-SparkFun_PWM_Edison_Block_Example=/home/mike.hord/dropbox/iotdk-ide-win/SparkFun_PWM_Edison_Block_Example/src CD=. filter="*.cpp *.h *.hpp *.c" {
- SparkFun_pca9685_Edison.cpp
- SparkFun_PWM_Edison_Block_Example.cpp
- SparkFun_pca9685_Edison.h
-}
