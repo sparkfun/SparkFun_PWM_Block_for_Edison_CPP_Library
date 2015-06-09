@@ -12,7 +12,7 @@ Repository Contents
 
 * **SparkFun_pca9685_Edison.h** - Header file containing class, function, and
 constant definitions used by the pca9685 C++ library.
-* **/SparkFun_pca9685_Edison.cpp** - Class implementation for pca9685 class.
+* **SparkFun_pca9685_Edison.cpp** - Class implementation for pca9685 class.
 * **SparkFun_PWM_Edison_Block_Example.cpp** - example code which will show you
 how to access all of the functions in the library.
 
