@@ -32,8 +32,8 @@ pca9685::pca9685(mraa::I2c* pca_port, uint8_t myI2CAddress):
   _minServoPL(MIN_WIDTH), _maxServoPL(MAX_WIDTH),
   _minAngle(0), _maxAngle(180)
 {
-  setPrescaler(14); // f= ~400Hz
   _pca_port->address(_myAddress);
+  setPrescaler(14); // f= ~400Hz
   _pca_port->writeReg(MODE1, AI); //enable autoincrement and osc
   _pca_port->writeReg(MODE2, INVRT); // open drain outs
 }
